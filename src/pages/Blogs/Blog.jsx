@@ -33,9 +33,9 @@ const Blog = () => {
         </div>
         <div className="card card-side bg-base-400 shadow-xl">
           <div className="card-body">
-            <h2 className="card-title">Compare SQL and NoSQL databases?</h2>
+            <h2 className="card-title">Question-02:Compare SQL and NoSQL databases?</h2>
             <p>
-              SQL and NoSQL are two different types of database management
+              Answer:SQL and NoSQL are two different types of database management
               systems with distinct characteristics. Here's a concise
               comparison: Data Model: SQL databases are based on a structured,
               tabular data model with predefined schemas. NoSQL databases use a
@@ -66,9 +66,7 @@ const Blog = () => {
               scalability, handle large amounts of unstructured data, require
               high throughput, and can tolerate eventual consistency, such as
               real-time analytics, content management, and IoT applications.
-              It's important to note that this is a general comparison, and
-              specific databases within each category may have different
-              features and capabilities.
+              
             </p>
           </div>
         </div>
