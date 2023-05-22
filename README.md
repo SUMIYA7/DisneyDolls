@@ -13,4 +13,4 @@ Features:
 5.
 
 ## Live Site ##
-You can view the live site of Cooking Studio at https://disneydolls-c1aec.web.app  
+You can view the live site of Cooking Studio at: https://disneydolls-c1aec.web.app  
