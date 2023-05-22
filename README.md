@@ -10,7 +10,7 @@ Features:
 
 3.Secure Online Purchases: Enjoy a safe and secure online shopping experience. Disney Dolls ensures the protection of your personal and payment information, providing a trustworthy platform for purchasing Disney toys.
 
-User Reviews and Ratings: Benefit from the opinions and experiences of other users. Read reviews and ratings for each toy, helping you make informed decisions and choose the most suitable Disney toy for yourself or as a gift.
+4.User Reviews and Ratings: Benefit from the opinions and experiences of other users. Read reviews and ratings for each toy, helping you make informed decisions and choose the most suitable Disney toy for yourself or as a gift.
 
 
 
