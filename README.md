@@ -3,6 +3,14 @@
 Disney Dolls is a web application that allows users to search for all kinds of toys of Disney and can buy toys anytime from anywhere over the world.This project was built using React and Firebase.
 
 Features:
+Extensive Toy Collection: Explore a vast collection of Disney toys, ranging from classic characters to the latest releases. Find toys representing your favorite Disney movies and characters all in one place.
+
+Advanced Search Functionality: Utilize powerful search features to quickly find the desired Disney toy. Search by movie, character, age group, or specific keywords to narrow down the options and discover exactly what you're looking for.
+
+Secure Online Purchases: Enjoy a safe and secure online shopping experience. Disney Dolls ensures the protection of your personal and payment information, providing a trustworthy platform for purchasing Disney toys.
+
+User Reviews and Ratings: Benefit from the opinions and experiences of other users. Read reviews and ratings for each toy, helping you make informed decisions and choose the most suitable Disney toy for yourself or as a gift.
+
 
 
 ## Live Site ##
