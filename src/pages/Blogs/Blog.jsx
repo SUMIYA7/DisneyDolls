@@ -126,7 +126,8 @@ const Blog = () => {
               What is MongoDB aggregate and how does it work?
             </h2>
             <p>
-              
+             Answer: MongoDB's aggregation framework is a powerful tool used for data processing and analysis. It allows you to perform complex operations on documents within a collection and retrieve aggregated results based on specified criteria.
+             The aggregation framework in MongoDB works by chaining together multiple stages, where each stage performs a specific operation on the documents. These stages are executed in the order they are specified, and the output of one stage becomes the input for the next stage. The result of the aggregation is returned as a single document or a set of documents, depending on the operations performed.
             </p>
           </div>
         </div>
