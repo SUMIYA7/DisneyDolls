@@ -8,37 +8,11 @@ const Blog = () => {
         <div className="card card-side bg-base-400 shadow-xl">
           <div className="card-body">
             <h2 className="card-title">
-              What is an access token and refresh token? How do they work and
+              Question-01: What is an access token and refresh token? How do they work and
               where should we store them on the client-side?
             </h2>
             <p>
-              An access token and refresh token are commonly used in
-              authentication and authorization protocols. An access token is a
-              credential that represents the authorization granted to a client
-              application to access specific resources on behalf of a user. It
-              is typically short-lived and contains information such as the
-              user's identity and the permissions granted. The client includes
-              the access token in API requests to authenticate itself and gain
-              access to protected resources. A refresh token is a long-lived
-              credential that is used to obtain a new access token when the
-              current one expires. It is usually issued alongside the access
-              token and can be used to request a fresh access token without
-              requiring the user to reauthenticate. Refresh tokens are typically
-              stored securely and not shared with the client application. On the
-              client-side, access tokens are commonly stored in memory or local
-              storage, depending on the platform or framework being used.
-              Storing the access token in memory can provide better security, as
-              it is less susceptible to being accessed by malicious scripts or
-              third-party libraries. However, it may require the user to log in
-              again if the page is refreshed or closed. On the other hand,
-              storing the access token in local storage allows the user session
-              to persist even if the page is refreshed, but it can be more
-              vulnerable to cross-site scripting (XSS) attacks. It is important
-              to note that storing tokens securely is crucial to protect against
-              unauthorized access. Developers should follow best practices for
-              secure token storage, such as using HTTPS, implementing CSRF
-              protection, and avoiding storing sensitive information in cookies
-              or other insecure storage mechanisms.
+              
             </p>
           </div>
         </div>
