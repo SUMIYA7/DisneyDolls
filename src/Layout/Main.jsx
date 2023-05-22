@@ -6,7 +6,7 @@ import useTitle from "../hooks/useTitle";
 const Main = () => {
     useTitle("Home");
     return (
-        <div>
+        <div className="bg-black">
             <NavBar />
             <Outlet />
             <Footer />
