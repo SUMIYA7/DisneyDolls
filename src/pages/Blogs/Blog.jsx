@@ -12,9 +12,9 @@ const Blog = () => {
               where should we store them on the client-side?
             </h2>
             <p>
-              Answer:An access token and a refresh token are both used in authentication and authorization mechanisms. Here's an overview of each token and how they work:
+             Answer:An access token and a refresh token are both used in authentication and authorization mechanisms. Here's an overview of each token and how they work:
 
-              Access Token:
+             Access Token:
 
              An access token is a credential that represents the authorization to access a protected resource or perform certain actions on behalf of the user.
              It is typically short-lived and has an expiration time.Access tokens are issued by an authentication server (such as OAuth provider) after the user has successfully authenticated and authorized the client application.
