@@ -126,40 +126,7 @@ const Blog = () => {
               What is MongoDB aggregate and how does it work?
             </h2>
             <p>
-              In MongoDB, the aggregate operation is a powerful way to perform
-              data processing and aggregation tasks on collections. It allows
-              you to perform complex operations on data, such as grouping,
-              filtering, sorting, and transforming, using a pipeline of stages.
-              The aggregate operation takes an array of stages, and each stage
-              represents a specific operation or transformation to be performed
-              on the data. The output of one stage becomes the input for the
-              next stage, forming a data processing pipeline. Here's a
-              simplified overview of how the MongoDB aggregate operation works:
-              Data Source: You start by specifying the collection from which you
-              want to aggregate data. Stages: You define an array of stages,
-              where each stage performs a specific operation on the data. Common
-              stages include: $match: Filters the documents based on specified
-              criteria. $group: Groups the documents by a specified field and
-              performs aggregation operations like sum, average, count, etc. on
-              the grouped data. $project: Shapes the documents by including,
-              excluding, or transforming fields. $sort: Sorts the documents
-              based on specified fields. $limit: Limits the number of documents
-              in the output. Execution: MongoDB executes the stages in the order
-              they are specified in the pipeline. Each stage takes the input
-              from the previous stage and produces an output that becomes the
-              input for the next stage. The final stage in the pipeline produces
-              the aggregated result. Result: The aggregate operation returns the
-              result of the pipeline, which can be a single document or a cursor
-              (if the result set is large). The aggregate operation in MongoDB
-              is highly flexible and allows you to perform complex data
-              transformations and calculations. It provides a wide range of
-              operators and expressions that can be used within each stage to
-              shape and manipulate the data. By combining different stages, you
-              can create powerful aggregation pipelines to extract meaningful
-              insights from your data. It's important to consult the MongoDB
-              documentation for detailed information on the available stages,
-              operators, and expressions to leverage the full capabilities of
-              the aggregate operation.
+              
             </p>
           </div>
         </div>
