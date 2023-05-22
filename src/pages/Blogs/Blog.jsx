@@ -110,7 +110,7 @@ const Blog = () => {
         <div className="card card-side bg-base-400 shadow-xl">
           <div className="card-body">
             <h2 className="card-title">
-              What is MongoDB aggregate and how does it work?
+              Question-04:What is MongoDB aggregate and how does it work?
             </h2>
             <p>
              Answer: MongoDB's aggregation framework is a powerful tool used for data processing and analysis. It allows you to perform complex operations on documents within a collection and retrieve aggregated results based on specified criteria.
