@@ -8,7 +8,7 @@ Features:
 
 2.Advanced Search Functionality: Utilize powerful search features to quickly find the desired Disney toy. Search by movie, character, age group, or specific keywords to narrow down the options and discover exactly what you're looking for.
 
-Secure Online Purchases: Enjoy a safe and secure online shopping experience. Disney Dolls ensures the protection of your personal and payment information, providing a trustworthy platform for purchasing Disney toys.
+3.Secure Online Purchases: Enjoy a safe and secure online shopping experience. Disney Dolls ensures the protection of your personal and payment information, providing a trustworthy platform for purchasing Disney toys.
 
 User Reviews and Ratings: Benefit from the opinions and experiences of other users. Read reviews and ratings for each toy, helping you make informed decisions and choose the most suitable Disney toy for yourself or as a gift.
 
