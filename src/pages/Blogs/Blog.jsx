@@ -72,9 +72,9 @@ const Blog = () => {
         </div>
         <div className="card card-side bg-base-400 shadow-xl">
           <div className="card-body">
-            <h2 className="card-title">What is express js? What is Nest JS?</h2>
+            <h2 className="card-title">Question-03:What is express js? What is Nest JS?</h2>
             <p>
-              Express.js and Nest.js are both popular web application frameworks
+              Answer: Express.js and Nest.js are both popular web application frameworks
               for Node.js, but they differ in terms of their design philosophy
               and features. Here's a concise description of each: Express.js:
               Express.js is a minimalistic and unopinionated web framework for
