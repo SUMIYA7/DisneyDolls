@@ -13,4 +13,4 @@ Features:
 4.User Reviews and Ratings: Benefit from the opinions and experiences of other users. Read reviews and ratings for each toy, helping you make informed decisions and choose the most suitable Disney toy for yourself or as a gift.
 
 ## Live Site ##
-You can view the live site of Cooking Studio at: https://disneydolls-c1aec.web.app  
+You can view the live site of Disney Dolls at: https://disneydolls-c1aec.web.app  
