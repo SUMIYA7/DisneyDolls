@@ -12,5 +12,7 @@ Features:
 
 4.User Reviews and Ratings: Benefit from the opinions and experiences of other users. Read reviews and ratings for each toy, helping you make informed decisions and choose the most suitable Disney toy for yourself or as a gift.
 
+5.Order payment: Choose from a variety of payment options to complete your purchase. Disney Dolls supports secure payment gateways, allowing you to use credit/debit cards, digital wallets, or other preferred payment methods. Experience a hassle-free checkout process.
+
 ## Live Site ##
 You can view the live site of Disney Dolls at: https://disneydolls-c1aec.web.app  
